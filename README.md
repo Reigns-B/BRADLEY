@@ -1,4 +1,5 @@
 Hello 👋
+
 My name is BRADLEY, I am Self taught developer!
 
 🗃️ Working on multiple frontend and backend projectS.
