@@ -11,7 +11,7 @@ My name is BRADLEY, I am Self taught developer!
 👯 I’m looking to collaborate on System Development projects.<br>
 🤝 I’m open to work.<br>
 🌱 I’m all about Digital Transformation.<br>
-💬 Ask me about my Coding Journey.<br>⚡ Fun fact I value my peace of mind than anything else!
+💬 Ask me about my Coding Journey.<br>⚡ Fun fact I value my peace of mind more than anything else!
 
 
 ## 🌐 Socials:
