@@ -5,6 +5,8 @@ My name is BRADLEY, I am Self taught developer!
 🗃️ Working on multiple frontend and backend projectS.
 🎯 | PHP | Java | Python - Django, Machine Learning & Artifical intelligence | JAVASCRIPT - JQuery, React JS | HTML, CSS - Bootstrap
 
+[![](https://visitcount.itsvg.in/api?id=Reigns-B&icon=6&color=1)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🔭 I’m currently working on my Digital Agency.<br>
@@ -35,7 +37,6 @@ My name is BRADLEY, I am Self taught developer!
 ![](https://github-contributor-stats.vercel.app/api?username=Reigns-B&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Reigns-B&icon=6&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can support me by:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/MRBRADLEY) 
